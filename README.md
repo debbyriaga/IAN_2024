@@ -13,8 +13,8 @@ En este curso aprenderás los conceptos fundamentales de la **analítica de nego
 * **Estudios de caso**: Aplicación de la analítica en bases de datos.
 
 #### Recursos adicionales
-Visita el sitio de la universidad para más información sobre la carrera de **Analítica de Negocios**:  
-[Universidad Jorge Tadeo Lozano](https://www.utadeo.edu.co/es)
+Visita el sitio de la universidad para más información sobre el curso de **Analítica de Negocios**:  
+[Universidad Jorge Tadeo Lozano - AVATA](https://www.utadeo.edu.co/es/micrositio/avata)
 
-![Analítica de Negocios](https://www.utadeo.edu.co/sites/tadeo/files/styles/1_1_360x360/public/ciencias/analitica.png)
+![Analítica de Negocios](https://www.dqsconsulting.com/wp-content/uploads/2021/09/como-hacer-un-analisis-de-datos.jpg)
 
