@@ -1,18 +1,20 @@
 # IAN_2024
 Clase de introducción a la analítica de negocios
 
-## Hola mundo
-### Hola mundo este es el primer repositorio
-#### Mi nombre es Debby
+En este curso aprenderás los conceptos fundamentales de la **analítica de negocios**, incluyendo:
 
-#### **Hola mundo**
-*Universidad Jorge Tadeo Lozano*
+* _Análisis descriptivo_: Entender lo que ha sucedido en el pasado.
+* _Análisis predictivo_: Predecir lo que sucederá en el futuro.
+* _Análisis prescriptivo_: Sugerir acciones basadas en los datos.
 
-* Primer elemento
-* Segundo elemento
-* Tercer elemento
+#### Temas Principales
+* **Manejo de datos**: Recopilación, limpieza y preparación de datos.
+* **Herramientas analíticas**: Power BI e IBM SPSS para análisis de datos.
+* **Estudios de caso**: Aplicación de la analítica en bases de datos.
 
-  [Universidad Jorge Tadeo Lozano](https://www.utadeo.edu.co/es)
+#### Recursos adicionales
+Visita el sitio de la universidad para más información sobre la carrera de **Analítica de Negocios**:  
+[Universidad Jorge Tadeo Lozano](https://www.utadeo.edu.co/es)
 
-  ![Colombia](https://govco-prod-webutils.s3.amazonaws.com/uploads/2022-12-13/d50f15a1-7851-407a-98c4-5bb14ee301ae-1imagen_noticia.svg)
-  
+![Analítica de Negocios](https://www.utadeo.edu.co/sites/tadeo/files/styles/1_1_360x360/public/ciencias/analitica.png)
+
